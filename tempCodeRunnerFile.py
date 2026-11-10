@@ -1,1 +1,0 @@
-highlightthickness=2
